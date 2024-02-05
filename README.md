@@ -17,7 +17,7 @@ Interns will work on various assignments covering different areas of Java develo
 Before getting started with the project, ensure you have the following prerequisites installed:
 
 - Java Development Kit (JDK) - version 8 or higher
-- IDE (Integrated Development Environment) such as IntelliJ IDEA, Eclipse, or NetBeans
+- IDE (Integrated Development Environment) such as Visual Studio Code or Eclipse
 - Git (optional, for cloning the repository)
 
 ## Setup Instructions
